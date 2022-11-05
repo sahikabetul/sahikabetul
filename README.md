@@ -1,8 +1,8 @@
-### Hi there, I'm Sahika 👋 Glad to see you here!
+<h1 align="center"> Hi there, I'm Sahika 👋 Glad to see you here!</h1>
+<h3 align="center"> I’m a medical doctor 👩‍⚕️ who working as a AI&ML Developer</h2>
+<h3 align="center">🦾 I like to bring innovation to healthcare with power of the technology</h3>
 
-- ✨ I’m currently working on AI4HEALTH topic
-- 👩‍⚕️ I’m a medical doctor that working as a AI&ML Developer
-- 🦾 I like to bring innovation to healthcare with power of the technology
+- ✨ I’m currently working at Turkcell AI Team
 - ✍ I also write articles and make public speechs about AI4HEALTH on different platforms 
 - 👯 I’m looking to collaborate on Artificial Intelligence
 
