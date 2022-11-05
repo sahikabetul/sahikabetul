@@ -1,5 +1,4 @@
-### Hi there, I'm Sahika 👋
-### Glad to see you here!
+### Hi there, I'm Sahika 👋 Glad to see you here!
 
 - ✨ I’m currently working on AI4HEALTH topic
 - 👩‍⚕️ I’m a medical doctor that working as a AI&ML Developer
