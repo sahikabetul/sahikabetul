@@ -7,4 +7,9 @@
 - ✍ I also write articles and make public speechs about AI4HEALTH on different platforms 
 - 👯 I’m looking to collaborate on Artificial Intelligence
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahikabetul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sahikabetul&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahikabetul" />
+</a>
