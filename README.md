@@ -3,7 +3,7 @@
 <h3 align="center"> I like to bring innovation to healthcare 🦾 with power of the technology</h3>
 
 - ✨ I’m currently working at Turkcell AI Team
-- ✍ I also write articles and make public speechs about AI4HEALTH on different platforms 
+- ✍ I also write articles and give public speechs about AI4HEALTH on different platforms 
 - 👯 I’m looking to collaborate on Artificial Intelligence
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
