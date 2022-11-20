@@ -5,7 +5,7 @@
 - ✨ I’m currently working at Turkcell AI Team as a developer
 - 🏆 My entrepreneurship project selected first among 400 projects in very prestigious entrepreneurship competition in Turkey.
 - 🔬 Also I really coded a bacteria and won silver prize at iGEM-synthetic biology competition at Boston, MIT.
-- ✍ I also write articles and give public speechs about AI4HEALTH on different platforms.
+- ✍ I write articles and give public speechs about AI4HEALTH on different platforms. Check <a href="https://medium.com/@sahika.betul">my Medium account.</a>
 - 📺 Check <a href="https://www.youtube.com/watch?v=uxEDlZqqCwM">this video</a> for my story. 
 - 👯 Feel free to contact me via <a href="https://www.linkedin.com/in/sahikabetul/">my LinkedIn account.</a> 
 
