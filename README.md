@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Sahika 👋 Glad to see you here!</h2>
-<h3 align="center"> I’m a medical doctor 👩‍⚕️ who working as a AI&ML Developer</h2>
+<h3 align="center"> I’m a medical doctor 👩‍⚕️ who working as an AI&ML Developer</h2>
 <h3 align="center"> I like to bring innovation to healthcare 🦾 with power of the technology</h3>
 
 - ✨ I’m currently working at Turkcell AI Team as a developer.
